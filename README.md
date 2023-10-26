@@ -3,8 +3,10 @@
 
 第一步：
   创建一个目录 /opt/script 将代码 clone 到该目录
+  
 第二步：
   将脚本中所有的“xxxxxx”换成自己的
+  
 第三步：
   执行 init_check.sh 脚本，ok搞定
 
