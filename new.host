@@ -1,0 +1,27 @@
+[New-as]
+as-01      ansible_become=true ansible_become_user=root
+as-02      ansible_become=true ansible_become_user=root
+as-03      ansible_become=true ansible_become_user=root
+as-04      ansible_become=true ansible_become_user=root
+as-05      ansible_become=true ansible_become_user=root
+as-06      ansible_become=true ansible_become_user=root
+as-07      ansible_become=true ansible_become_user=root
+as-08      ansible_become=true ansible_become_user=root
+as-09      ansible_become=true ansible_become_user=root
+as-10      ansible_become=true ansible_become_user=root
+as-11      ansible_become=true ansible_become_user=root
+as-12      ansible_become=true ansible_become_user=root
+as-13      ansible_become=true ansible_become_user=root
+as-14      ansible_become=true ansible_become_user=root
+as-15      ansible_become=true ansible_become_user=root
+as-16      ansible_become=true ansible_become_user=root
+as-17      ansible_become=true ansible_become_user=root
+as-18      ansible_become=true ansible_become_user=root
+as-19      ansible_become=true ansible_become_user=root
+as-20      ansible_become=true ansible_become_user=root
+as-21      ansible_become=true ansible_become_user=root
+as-22      ansible_become=true ansible_become_user=root
+as-23      ansible_become=true ansible_become_user=root
+as-24      ansible_become=true ansible_become_user=root
+as-25      ansible_become=true ansible_become_user=root
+as-26      ansible_become=true ansible_become_user=root

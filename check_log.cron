@@ -1,0 +1,1 @@
+*/5 * * * * cd /opt/script/check_log && /bin/bash check_log.sh 5 40000
